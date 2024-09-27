@@ -67,9 +67,6 @@ The topic of the workshop lies at the intersection of many of EDBT/ICDT’s topi
 
 The workshop sets out to attract researchers, students, and practitioners in data management who have been working on transforming and querying graph data that is prone to evolve with time. The goal is to provide a forum to exchange the challenging research problems posed by designing usable, efficient, and reliable processing techniques in this setting.
 
-Compared to similar workshops focused on graph data management, such as the DOLAP workshop, at EDBT/ICDT, and GRADES-NDA, at SIGMOD/PODS, TGD sets to create new synergies around the interplay between the various existing formalisms, languages, and models for handling graph data transformations, in the context of the very recently developed GQL and SQL/PGQ standards for querying property graphs.  
----
-
 **Paper Submission**
 
 TGD welcomes high-quality *research*, *application*, and *vision* papers. 
