@@ -61,12 +61,6 @@ The workshop aims to provide a platform for the communities working on and with 
   * Usability, data integrity, quality  
   * Exploration of large evolving graphs.
 
-**Interest to EDBT/ICDT, relation to other workshops at data management venues**
-
-The topic of the workshop lies at the intersection of many of EDBT/ICDT’s topics of interest, including, but not limited to: “Availability, reliability, and scalability”, “Graph data management”, “Data models and semantics”, “Knowledge graphs and knowledge management”, “Query processing and optimisation”, “Spatial, temporal, and geographic data management”, and the “Design and study of data models and query languages”.
-
-The workshop sets out to attract researchers, students, and practitioners in data management who have been working on transforming and querying graph data that is prone to evolve with time. The goal is to provide a forum to exchange the challenging research problems posed by designing usable, efficient, and reliable processing techniques in this setting.
-
 **Paper Submission**
 
 TGD welcomes high-quality *research*, *application*, and *vision* papers. 
