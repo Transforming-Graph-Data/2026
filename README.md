@@ -34,9 +34,9 @@
 
 ### **The main goal of the workshop and list of the workshop topics**
 
-Graphs are increasingly used to represent and capture information about interconnected real-world entities. A rich landscape of graph database systems has emerged to store, process, and analyse complex graph datasets efficiently. While these offer limited support for evolution mechanisms, the proliferation of continuously and collaboratively curated graph data has made it imperative to provide principled and practically tractable mechanisms to define and employ graph transformations and query languages.
+Graphs are increasingly used to represent and capture information about interconnected real-world entities. A rich landscape of graph database systems has emerged to efficiently store, process, and analyse complex graph datasets. While these offer limited support for evolution mechanisms, the proliferation of continuously and collaboratively curated graph data has made it imperative to provide principled and practically tractable mechanisms to define and employ graph transformations and query languages.
 
-Some underlying challenges include the lack of practical formalisms for describing graph transformations and the absence of appropriate syntactic and semantic primitives for capturing and querying various aspects of temporality, such as timeliness or versioning. Moreover, upholding human aspects of graph transformation ecosystems, e.g., interoperability, reliability, scalability, and learning requirements calls for the design of new models and techniques, as well as for further discussions on the role and use of recent generative AI methods in this setting. 
+Some underlying challenges include the lack of practical formalisms for describing graph transformations and the absence of appropriate syntactic and semantic primitives for capturing and querying various aspects of temporality, such as timeliness or versioning. Moreover, upholding human aspects of graph transformation ecosystems, e.g., interoperability, reliability, scalability, and learning requirements, calls for the design of new models and techniques and for further discussions on the role and use of recent generative AI methods in this setting. 
 
 The workshop aims to provide a platform for the communities working on and with graph transformations and graph queries to share thoughts and ideas and advertise their recent work. Topics of interest include, but are not limited to, the following:
 
@@ -68,18 +68,18 @@ TGD welcomes high-quality *research*, *application*, and *vision* papers.
 *Research papers* should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
 
 * original and unpublished results or  
-* recent results that have already been accepted or published at an international workshop or conference. **These will not count as new publications.** If accepted, a short abstract referencing the original publication will be included in the proceedings.
+* recent results have already been accepted or published at an international workshop or conference. **These will not count as new publications.** If accepted, a short abstract referencing the original publication will be included in the proceedings.
 
 *Application papers* are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
 
 *Vision papers* should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these in the future.
 
-The expected format for submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the CEUR online proceedings, either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal. Being the first edition, we do not have statistics to rely on. Based on other graph database workshops and our dissemination plans, we expect 15-20 submissions, \~seven acceptances, and 20-30 participants. To encourage participation, we will invite one or two keynotes from the attendees. 
+The expected format for submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the CEUR online proceedings, either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
 
 ---
 **Policy for handling conflicts of interest with reviewers or PC chairs**
 
-* TGD will employ **single-blind reviewing**, following the EDBT/ICDT 2025 Joint Conference policy. Submissions must include the names and affiliations of all authors, while reviewers remain anonymous, and respect the guidelines of diversity & inclusion in writing upheld by EDBT/ICDT, SIGMOD, VLDB.  
+* PC Members are encouraged to submit papers to the workshop.
+* TGD will employ **single-blind reviewing**, following the EDBT/ICDT 2025 Joint Conference policy. Submissions must include the names and affiliations of all authors. At the same time, reviewers remain anonymous and respect the guidelines of diversity & inclusion in writing upheld by EDBT/ICDT, SIGMOD, and VLDB.  
 * Upon submitting a paper, the authors may indicate PC members that they deem unsuitable for reviewing their submission due to a conflict of interest (defined following the EDBT/ICDT 2025 criteria). PC members will also be given the list of submitting authors and asked to identify those they deem to be in a conflict of interest. The PC chairs will analyse the conflicts of interest declared by authors and PC members to identify any potentially spurious conflicts.  
 * A senior PC member or external reviewer will be designated to handle papers that have a conflict of interest with the organisers.  
-* PC chairs will not submit papers to TGD.
