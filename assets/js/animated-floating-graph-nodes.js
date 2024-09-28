@@ -20,9 +20,7 @@ var app;
         setInterval(() => {
             graph.stepFrame();
             graph.redrawOutput();
-            var svgCode = encodeURI(svg.outerHTML);
-            let element = document.querySelector("article");
-            element.style.backgroundImage = "url(data:image/svg+xml;utf8," + svgCode + ")";
+          
         }, frameIntervalMs);
        
     }
@@ -43,17 +41,24 @@ var app;
                 throw new Error("Assertion error");
             handler();
         }
-        setAndCall("number-nodes", val => graph.idealNumNodes = Math.round(val));
-        setAndCall("extra-edges", val => graph.extraEdgeProportion = val / 100);
-        setAndCall("network-style", val => graph.radiiWeightPower = val);
-        setAndCall("drift-speed", val => {
-            if (!isNaN(val))
-                graph.driftSpeed = val * 0.0001;
-        });
-        setAndCall("repulsion-force", val => {
-            if (!isNaN(val))
-                graph.repulsionForce = val * 0.000001;
-        });
+
+        graph.idealNumNodes = 100
+        graph.extraEdgeProportion = 30 / 100
+        graph.radiiWeightPower = 1
+        graph.driftSpeed = 1 * 0.0001;
+        graph.repulsionForce = 1 * 0.000001;
+
+        // setAndCall("number-nodes", val => graph.idealNumNodes = Math.round(val));
+        // setAndCall("extra-edges", val => graph.extraEdgeProportion = val / 100);
+        // setAndCall("network-style", val => graph.radiiWeightPower = val);
+        // setAndCall("drift-speed", val => {
+        //     if (!isNaN(val))
+        //         graph.driftSpeed = val * 0.0001;
+        // });
+        // setAndCall("repulsion-force", val => {
+        //     if (!isNaN(val))
+        //         graph.repulsionForce = val * 0.000001;
+        // });
     }
     /*---- Major graph classes ----*/
     class Graph {

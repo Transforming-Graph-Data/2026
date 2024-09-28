@@ -135,9 +135,3 @@ profiles:
     image_circular: yes
     role: PC Members
 ---
-
-## Workshop Chairss
-
-
-
-## PC Memberss
