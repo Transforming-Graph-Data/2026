@@ -1,0 +1,1 @@
+window.onload=function(){new Typed("#typing-text",{strings:["promoting learning","communicating knowledge","discovering ideas"],typeSpeed:50,backDelay:2e3,fadeOut:!1,backSpeed:40,smartBackspace:!0,loop:!0,showCursor:!1})};
