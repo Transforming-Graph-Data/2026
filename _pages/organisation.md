@@ -2,10 +2,10 @@
 layout: profiles
 permalink: /organisation/
 title: organisation
-description: This page lists the member of the workshop committee
+description: This page lists the members of the workshop committee (in progress)
 nav: true
 nav_order: 3
-categories: ["Chairs","PC Members - incomplete list"]
+categories: ["Chairs","PC Members"]
 profiles:
  
   - align: right
