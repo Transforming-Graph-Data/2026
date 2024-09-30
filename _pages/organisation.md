@@ -76,7 +76,7 @@ profiles:
     role: PC Members NC
 
   - align: left
-    image: committee/katja_hose.jpg
+    image: committee/katja_hose2.jpg
     description: <br><br> Katja Hose, Vienna University of Technology, Austria 🇦🇹
     image_circular: yes
     role: PC Members
