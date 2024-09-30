@@ -1,1 +1,1 @@
-Sitemap: https://riccardotommasini.github.io/tgdw/sitemap.xml
+Sitemap: https://transforming-graphs-workshop.org/sitemap.xml
