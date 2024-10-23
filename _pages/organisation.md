@@ -122,7 +122,7 @@ profiles:
     image_circular: yes
     role: PC Members
 
-  - align: right
+  - align: left
     image: committee/petra_selmer.jpg
     description: <br><br> Petra Selmer, Bloomberg, United Kingdom 🇬🇧
     image_circular: yes
