@@ -50,7 +50,8 @@ TGD welcomes high-quality *research*, *application*, and *vision* papers.
 
 The expected format for all submission types is six pages in CEUR Double Column Format. All TGD papers will be published in the [CEUR online proceedings](https://ceur-ws.org/), either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
 
-All submissions will be electronic via CMT. The submission site is available as of October 24, 2024 at the following link: https://cmt3.research.microsoft.com/TGDWorkshop2025
+All submissions will be electronic via CMT. The submission site is available as of October 24, 2024 at the following link:
+[https://cmt3.research.microsoft.com/TGDWorkshop2025](https://cmt3.research.microsoft.com/TGDWorkshop2025)
 
 ## Conflicts of Interest (COI) Policy
 
