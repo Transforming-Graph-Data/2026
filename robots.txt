@@ -1,1 +1,1 @@
-Sitemap: /tgdw/tgdw/sitemap.xml
+Sitemap: //tgdw/sitemap.xml
