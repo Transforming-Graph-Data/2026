@@ -3,11 +3,10 @@ layout: profiles
 permalink: /invited/
 title: invited speakers
 description: the invited keynotes and the panelist of this workshop edition
-nav: true
+nav: false
 nav_order: 4
 categories: ["Keynote Speakers"]
 # categories: ["Keynote Speakers", "Panelists"]
-
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
