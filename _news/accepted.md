@@ -3,7 +3,6 @@ layout: post
 title: the list of accepted papers
 date: 2025-02-14 17:39:00
 description:  the list of accepted papers
-# redirect: http://localhost:4000/publications/
 ---
 
 Redirecting to another page.
