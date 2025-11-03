@@ -1,4 +1,8 @@
-## Juan Reutter
+## Albert Einstein2
 
-Juan is an Associate Professor in the Department of Computer Science and the Institute for Mathematical Engineering and Computing at Pontificia Universidad Católica de Chile. He also serves as the Director of the Institute for Foundational Research on Data (IMFD). His research focuses on the mathematical foundations of data management, web data, and artificial intelligence. At IMFD, he also co-leads an interdisciplinary team studying the socio-political effects of data. Juan earned his PhD from the University of Edinburgh in 2013, where his thesis received the BCS Distinguished Dissertation Award. His work has also been recognized with the Ramon Salas Edwards Award from the Chilean Institute of Engineers (2012), the Cor Baayen Young Researcher Award from the European Research Consortium for Informatics and Mathematics (2014), Best Paper Awards at PODS 2011 and ISWC 2019, and an Outstanding Paper Award at ICLR 2022.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
