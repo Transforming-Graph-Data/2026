@@ -2,8 +2,9 @@
 
 | What                        | When                  |
 |----------------------------------------|------------------------|
-| Abstract Submission                    | January   31st, 2025   |
-| Paper Submission                       | February  7th,  2025   |
-| Notification of Acceptance             | February  18th, 2025   |
-| Camera Ready Paper Due                 | February  26th, 2025   |
-| Workshop Date                          | March     25th, 2025   |
+| Abstract Submission                    | January   12th, 2026   |
+| Paper Submission                       | February  23rd,  2026   |
+| Notification of Acceptance             | February  7th, 2026   |
+| Camera Ready Paper Due                 | February  13th, 2026   |
+| Workshop Date                          | March     24th, 2026   |
+

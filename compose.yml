@@ -1,0 +1,14 @@
+services:
+  my-jekyll-container:
+    build: .
+    container_name: local_jekyll
+    restart: always
+    tty: true
+    volumes:
+      - ./app:/app
+      - ./conf:/etc/nginx/conf.d # For nginx setting
+    ports:
+      - "80:80"
+networks:
+  my-network:
+    driver: bridge

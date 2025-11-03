@@ -9,50 +9,51 @@ nav_order: 2
 
 The workshop aims to provide a platform for the communities working on and with graph transformations and graph queries to share thoughts and ideas and advertise their recent work. Topics of interest include, but are not limited to, the following:
 
-### Graph Transformations and Querying  
+## Topics
 
-* Human-centered and human-based approaches for graph transformations  
-* Logical aspects of graph transformations (based on rules, rewriting, algebra, etc.)  
-* Generative AI (LLM) methods for transforming graphs  
-* Learning graph transformations (inductive learning, self-regulated learning, etc.)  
-* Applying graph query languages for specifying transformations  
-* Optimisation for graph transformation and its relation to query optimisation  
+We welcome contributions on various topics, including but not limited to the following:
 
-### Graph Changes and Evolution  
+### Graph Transformations and Querying
+
+* Human-centred and human-based approaches for graph transformations
+* Logical aspects of graph transformations (based on rules, rewriting, algebra, etc.)
+* Generative AI (LLM) methods for transforming graphs
+* Learning graph transformations (inductive learning, self-regulated learning, etc.)
+* Applying graph query languages for specifying transformations
+* Optimisation for graph transformation and its relation to query optimisation
+
+### Graph Changes and Evolution
 
 * Formalisms to describe changes in graph data
 * Dynamic graph data transformations
-* Continuous queries and streaming graph processing  
+* Continuous queries and streaming graph processing
 
 ### Ecosystems for Graph Transformations
 
-* Design and deployment of interoperability layers for graph data technologies  
-* Ensuring the reliable processing of graph data (verification and validation)  
-* Scalable, transformation-prone graph data processing and querying  
-* Human aspects of graph transformation ecosystems  
-* Usability, data integrity, quality  
+* Design and deployment of interoperability layers for graph data technologies
+* Ensuring the reliable processing of graph data (verification and validation)
+* Scalable, transformation-prone graph data processing and querying
+* Human aspects of graph transformation ecosystems
+* Usability, data integrity, quality
 * Exploration of large evolving graphs.
 
-{% include_relative important_dates.md %}
+## Submission Link ###
 
-## Paper Submission
+Please submit your paper via the following link:
+[https://cmt3.research.microsoft.com/TGDWorkshop2026/](https://cmt3.research.microsoft.com/TGDWorkshop2026/)
 
-TGD welcomes high-quality *research*, *application*, and *vision* papers.
+## Submission Guidelines
 
-*Research papers* should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
+TGD welcomes high-quality research, application, and vision papers.
 
-* original and unpublished results or  
-* recent results that have already been accepted or published at an international workshop or conference. **These will not count as new publications.** If accepted, a short abstract referencing the original publication will be included in the proceedings.
+* Research papers should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
+* original and unpublished results or
+* recent results that have already been accepted or published at an international workshop or conference. These will not count as new publications. If accepted, a short abstract referencing the original publication will be included in the proceedings.
+* Application papers are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
+* Vision papers should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
+The expected format for all submissions is six pages in CEUR Double Column Format.
 
-*Application papers* are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
-
-*Vision papers* should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
-
-The expected format for all submission types is **six pages in CEUR Double Column Format (excluding references)**. All TGD papers will be published in the [CEUR online proceedings](https://ceur-ws.org/), either in full for unpublished works or as short abstracts for submissions summarising published works. Selected unpublished submissions will be invited to contribute an extended version to a special issue (acceptance pending) of the [Transactions on Graph Data and Knowledge](https://tgdk.org/) (TGDK) Journal.
-
-All submissions will be electronic via CMT. The submission site is available as of October 24, 2024 at the following link:
-
-[https://cmt3.research.microsoft.com/TGDWorkshop2025](https://cmt3.research.microsoft.com/TGDWorkshop2025)
+### After Acceptance
 
 ## Conflicts of Interest (COI) Policy
 
@@ -60,4 +61,3 @@ All submissions will be electronic via CMT. The submission site is available as 
 * TGD will employ **single-blind reviewing**, following the EDBT/ICDT 2025 Joint Conference policy. Submissions must include the names and affiliations of all authors. At the same time, reviewers remain anonymous and respect the guidelines of diversity & inclusion in writing upheld by EDBT/ICDT, SIGMOD, and VLDB.  
 * Upon submitting a paper, the authors may indicate PC members that they deem unsuitable for reviewing their submission due to a conflict of interest (defined following the EDBT/ICDT 2025 criteria). PC members will also be given the list of submitting authors and asked to identify those they deem to be in a conflict of interest. The PC chairs will analyse the conflicts of interest declared by authors and PC members to identify any potentially spurious conflicts.  
 * A senior PC member or external reviewer will be designated to handle papers that have a COI with the organisers.  
-
