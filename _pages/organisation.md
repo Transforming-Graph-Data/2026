@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 categories: ["Chairs","PC Members"]
 profiles:
-   - align: right
+  - align: right
     image: anna.png
     content: about_anna.md
     image_circular: no
