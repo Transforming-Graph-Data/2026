@@ -48,6 +48,8 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 TGD welcomes high-quality research, application, and vision papers.
 
+This year, we particularly also encourage contributions beyond the database community, highlighting the interdisciplinary aspects of graph data transformations.
+
 **Research papers** should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
 * original and unpublished results or
 * recent results that have already been accepted or published at an international workshop or conference. These will not count as new publications. If accepted, a short abstract referencing the original publication will be included in the proceedings.
