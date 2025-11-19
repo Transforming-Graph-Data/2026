@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  First Edition - co-located with <a href="https://edbticdt2025.upc.edu/">EDBT 2025 - March 2025</a>, Barcelona, Spain 🇪🇸
+subtitle:  Second Edition - co-located with <a href="https://edbticdt2026.github.io/">EDBT 2026 - March 2026</a>, Tampere, Finland 🇫🇮
 
 # profile:
 #   align: center

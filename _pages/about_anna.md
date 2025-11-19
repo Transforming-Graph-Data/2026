@@ -1,9 +1,3 @@
-## Anna Bernasconi
-
-She is a tenure-track researcher in the Dipartimento di Elettronica, Informazione e Bioingegneria at Politecnico di Milano. She was a visiting researcher at Universitat Politècnica de València from January to June 2022.
-
-Her work spans bioinformatics, databases, and data science, applying conceptual modeling, data integration, and knowledge engineering across life sciences and other applied domains, with a focus on building open-source tools and services.
-
-She contributes to the conceptual modeling and database communities through paper presentations, program committee service, and program chair roles. She organized tutorials at the ER and EDBT conferences and co-organized two workshops on conceptual models and web applications for life sciences (CMLS@ER and WALS@ICWE). She serves as an academic editor for PLOS ONE and BMC Bioinformatics, where she has coordinated several supplement issues. She is Principal Investigator of the SENSIBLE PRIN PNRR 2022 project and the NGI Search TETYS project.
+Anna Bernasconi is an Assistant Professor in the Department of Electronics, Information, and Bioengineering at Politecnico di Milano. She earned a PhD in 2021 with a thesis on building integrated repositories of genomic data and implementing search strategies on their content. Her research areas are Bioinformatics, Databases, and Data Science, in the context of life sciences and other applied sciences domains. She has been Principal Investigator of two projects (SENSIBLE PRIN PNRR 2022 and NGI Search TETYS), WP leader in an ERC AdG on data-driven genomic computing, Task leader in a Horizon Europe project on federated learning. She is a co-organizer of several workshops (CMLS@ER, WALS@ICWE, and iSAILS@CAiSE), an academic editor in Scientific Data, Plos One, BMC Bioinf., and Editorial Review Board Member of ACM JDIQ.
 
 E-mail: <anna.bernasconi@polimi.it>

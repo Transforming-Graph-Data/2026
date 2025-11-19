@@ -7,19 +7,18 @@ nav: true
 nav_order: 3
 categories: ["Chairs","PC Members"]
 profiles:
- 
   - align: right
-    image: stefania.jpg
-    content: about_stefania.md
-    image_circular: no
-    role: "Chairs"
-  
-  - align: left
     image: anna.png
     content: about_anna.md
     image_circular: no
     role: "Chairs"
 
+  - align: left
+    image: stefania.jpg
+    content: about_stefania.md
+    image_circular: no
+    role: "Chairs"
+  
   - align: right
     image: riccardo.png
     content: about_riccardo.md
