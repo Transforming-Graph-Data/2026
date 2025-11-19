@@ -60,8 +60,6 @@ This year, we particularly also encourage contributions beyond the database comm
   
 The expected format for all submissions is **six pages in CEUR Double Column Format**.
 
-### After Acceptance
-
 ## Conflicts of Interest (COI) Policy
 
 * PC Members are encouraged to submit papers to the workshop.
