@@ -48,12 +48,15 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 TGD welcomes high-quality research, application, and vision papers.
 
-* Research papers should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
+Research papers should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
 * original and unpublished results or
 * recent results that have already been accepted or published at an international workshop or conference. These will not count as new publications. If accepted, a short abstract referencing the original publication will be included in the proceedings.
-* Application papers are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
-* Vision papers should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
-The expected format for all submissions is six pages in CEUR Double Column Format.
+  
+Application papers are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
+  
+Vision papers should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
+  
+The expected format for all submissions is **six pages in CEUR Double Column Format**.
 
 ### After Acceptance
 
