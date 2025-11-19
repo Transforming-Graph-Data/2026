@@ -42,19 +42,19 @@ We welcome contributions on various topics, including but not limited to the fol
 Please submit your paper via the following link:
 [https://cmt3.research.microsoft.com/TGDWorkshop2026/](https://cmt3.research.microsoft.com/TGDWorkshop2026/)
 
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services and for software development and support.
 
 ## Submission Guidelines
 
 TGD welcomes high-quality research, application, and vision papers.
 
-Research papers should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
+**Research papers** should describe research ideas and results relevant to TGD’s topics of interest, and that fall into one of the following categories:
 * original and unpublished results or
 * recent results that have already been accepted or published at an international workshop or conference. These will not count as new publications. If accepted, a short abstract referencing the original publication will be included in the proceedings.
   
-Application papers are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
+**Application papers** are expected to describe graph transformations in the industrial setting or in new application domains. Discussions and lessons concerning technology transfer of research ideas to the real-world setting are particularly encouraged.
   
-Vision papers should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
+**Vision papers** should describe graph transformation use cases/scenarios that push the limits of existing solutions. These should motivate the importance of the studied use case, present gaps in the state-of-the-art, and lay out directions for addressing these.
   
 The expected format for all submissions is **six pages in CEUR Double Column Format**.
 
