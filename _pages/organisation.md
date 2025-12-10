@@ -25,7 +25,6 @@ profiles:
     image_circular: no
     role: "Chairs"
 
-
   - align: right
     # image: committee/maribel_acosta.jpg
     description: <br><br> Alexandra Rogova, Uniwersytet Warszawski, Poland
@@ -38,83 +37,83 @@ profiles:
     image_circular: yes
     role: PC Members NC
     
- - align: left
-   # image: committee/angela_bonifati.jpg
-   description: <br><br> Francesca BUGIOTTI, Laboratoire interdisciplinaire des sciences du numerique (LISN), France 🇫🇷
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/angela_bonifati.jpg
+    description: <br><br> Francesca BUGIOTTI, Laboratoire interdisciplinaire des sciences du numerique (LISN), France 🇫🇷
+    # image_circular: yes
+    role: PC Members
 
- - align: right
-   # image: committee/sourav_bhowmick.jpg
-   description: <br><br> Haridimos Kondylakis, FORTH-ICS & Computer Science Department, University of Crete
-   # image_circular: yes
-   role: PC Members NC
+  - align: right
+    # image: committee/sourav_bhowmick.jpg
+    description: <br><br> Haridimos Kondylakis, FORTH-ICS & Computer Science Department, University of Crete
+    # image_circular: yes
+    role: PC Members NC
 
- - align: left
-   # image: committee/diego_calvanese.jpg
-   description: <br><br> Jyrki Nummenmaa, Tampere University
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/diego_calvanese.jpg
+    description: <br><br> Jyrki Nummenmaa, Tampere University
+    # image_circular: yes
+    role: PC Members
 
- - align: left
-   # image: committee/daniele_dellaglio.jpg
-   description: <br><br> Marco Mesiti, University of Milano, Italy 🇮🇹
-   # image_circular: yes
-   role: PC Members NC
+  - align: left
+    # image: committee/daniele_dellaglio.jpg
+    description: <br><br> Marco Mesiti, University of Milano, Italy 🇮🇹
+    # image_circular: yes
+    role: PC Members NC
 
- - align: right
-   # image: committee/anastasia_dimou.jpg
-   description: <br><br> Matteo Lissandrini, University of Verona
-   # image_circular: yes
-   role: PC Members NC
+  - align: right
+    # image: committee/anastasia_dimou.jpg
+    description: <br><br> Matteo Lissandrini, University of Verona
+    # image_circular: yes
+    role: PC Members NC
 
- - align: left
-   # image: committee/thomas_eiter.jpg
-   description: <br><br> Meike Klettke, Universitat Regensburg
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/thomas_eiter.jpg
+    description: <br><br> Meike Klettke, Universitat Regensburg
+    # image_circular: yes
+    role: PC Members
 
- - align: left
-   # image: committee/lorena_etcheverry.jpg
-   description: <br><br> Nelly Barret, INSA Lyon & LIRIS
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/lorena_etcheverry.jpg
+    description: <br><br> Nelly Barret, INSA Lyon & LIRIS
+    # image_circular: yes
+    role: PC Members
 
- - align: left
-   # image: committee/katja_hose2.jpg
-   description: <br><br> Petra Selmer, Bloomberg
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/katja_hose2.jpg
+    description: <br><br> Petra Selmer, Bloomberg
+    # image_circular: yes
+    role: PC Members
 
- - align: right
-   # image: committee/vasiliki_kalavri.jpg
-   description: <br><br> Rachid Echahed, CNRS LIG, Univ. Grenoble Alpes
-   # image_circular: yes
-   role: PC Members NC
+  - align: right
+    # image: committee/vasiliki_kalavri.jpg
+    description: <br><br> Rachid Echahed, CNRS LIG, Univ. Grenoble Alpes
+    # image_circular: yes
+    role: PC Members NC
     
- - align: left
-   # image: committee/leonid_libkin.jpg
-   description: <br><br> Sergio Lifschitz, PUC-Rio
-   # image_circular: yes
-   role: PC Members  
+  - align: left
+    # image: committee/leonid_libkin.jpg
+    description: <br><br> Sergio Lifschitz, PUC-Rio
+    # image_circular: yes
+    role: PC Members  
 
- - align: left
-   # image: committee/sebastian_link.jpg
-   description: <br><br> Uta Storl, University of Hagen
-   # image_circular: yes
-   role: PC Members NC
+  - align: left
+    # image: committee/sebastian_link.jpg
+    description: <br><br> Uta Storl, University of Hagen
+    # image_circular: yes
+    role: PC Members NC
 
- - align: left
-   # image: committee/matteo_lissandrini.jpg
-   description: <br><br> Victor Marsault, LIGM, Univ. Gustave Eiffel, CNRS
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/matteo_lissandrini.jpg
+    description: <br><br> Victor Marsault, LIGM, Univ. Gustave Eiffel, CNRS
+    # image_circular: yes
+    role: PC Members
 
- - align: left
-   # image: committee/andrea_mauri.jpg
-   description: <br><br> Yuya Sasaki, Osaka University
-   # image_circular: yes
-   role: PC Members
+  - align: left
+    # image: committee/andrea_mauri.jpg
+    description: <br><br> Yuya Sasaki, Osaka University
+    # image_circular: yes
+    role: PC Members
 
   # - align: right
   #   image: committee/maribel_acosta.jpg
