@@ -32,7 +32,7 @@ profiles:
     role: PC Members NC
     
   - align: left
-    image:
+    # image:
     description: <br><br> Francesca Bugiotti, Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), France
     image_circular: yes
     role: PC Members NC
@@ -114,6 +114,8 @@ profiles:
     description: <br><br> Uta Störl, University of Hagen, Germany
     # image_circular: yes
     role: PC Members
+
+---
 
   # - align: right
   #   image: committee/maribel_acosta.jpg
@@ -234,6 +236,6 @@ profiles:
   #   description: <br><br> Hannes Voigt, Neo4j, Germany 🇩🇪
   #   image_circular: yes
   #   role: PC Members NC
----
+
 
 
