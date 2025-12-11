@@ -25,7 +25,7 @@ profiles:
     image_circular: no
     role: "Chairs"
 
-  - align: right
+  - align: left
     image: committee/barret.jpg
     description: <br><br> Nelly Barret, INSA Lyon & LIRIS, France
     image_circular: yes
