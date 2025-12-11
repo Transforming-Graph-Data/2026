@@ -43,7 +43,7 @@ profiles:
     image_circular: yes
     role: PC Members
 
-  - align: right
+  - align: left
     image: committee/klettke.jpg
     description: <br><br> Meike Klettke, Universität Regensburg, Germany
     image_circular: yes
@@ -56,63 +56,63 @@ profiles:
     role: PC Members
 
   - align: left
-    # image: 
+    image: committee/lifschitz.jpg
     description: <br><br> Sergio Lifschitz, PUC-Rio, Brazil
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
-  - align: right
-    # image: committee/matteo_lissandrini.jpg
+  - align: left
+    image: committee/matteo_lissandrini.jpg
     description: <br><br> Matteo Lissandrini, University of Verona, Italy
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: left
-    # image: 
+    image: committee/marsault.jpg
     description: <br><br> Victor Marsault, LIGM, Univ. Gustave Eiffel, CNRS, France
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: left
-    # image: 
+    image: committee/andrea_mauri.jpg
     description: <br><br> Andrea Mauri, Lyon 1 University, France
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: left
-    # image: 
+    image: committee/mesiti.jpg
     description: <br><br> Marco Mesiti, University of Milano, Italy
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
-  - align: right
-    # image: 
+  - align: left
+    image: committee/nummenmaa.jpg
     description: <br><br> Jyrki Nummenmaa, Tampere University, Finland
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
     
   - align: left
-    # image: 
+    image: committee/alexandra_rogova.jpg
     description: <br><br> Alexandra Rogova, Uniwersytet Warszawski, Poland
-    # image_circular: yes
+    image_circular: yes
     role: PC Members  
 
   - align: left
-    # image: 
+    image: committee/sasaki.jpg
     description: <br><br> Yuya Sasaki, Osaka University, Japan
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: left
-    # image: 
+    image: committee/petra_selmer.jpg
     description: <br><br> Petra Selmer, Bloomberg, United Kingdom
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: left
-    # image: 
+    image: committee/storl.jpg
     description: <br><br> Uta Störl, University of Hagen, Germany
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
 ---
