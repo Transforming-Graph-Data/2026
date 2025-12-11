@@ -26,31 +26,31 @@ profiles:
     role: "Chairs"
 
   - align: right
-    # image:
+    image: committee/barret.jpg
     description: <br><br> Nelly Barret, INSA Lyon & LIRIS, France
     # image_circular: yes
     role: PC Members NC
     
   - align: left
-    # image:
+    image: committee/bugiotti.jpg
     description: <br><br> Francesca Bugiotti, Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), France
     image_circular: yes
     role: PC Members NC
     
   - align: left
-    # image:
+    image: committee/echaed.jpg
     description: <br><br> Rachid Echahed, CNRS LIG, Univ. Grenoble Alpes, France
     # image_circular: yes
     role: PC Members
 
   - align: right
-    # image: 
+    image: committee/klettke.jpg
     description: <br><br> Meike Klettke, Universität Regensburg, Germany
     # image_circular: yes
     role: PC Members NC
 
   - align: left
-    # image: 
+    image: committee/haridimos_kondylakis.jpg
     description: <br><br> Haridimos Kondylakis, FORTH-ICS, University of Crete, Greece
     # image_circular: yes
     role: PC Members
