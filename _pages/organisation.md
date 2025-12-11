@@ -28,44 +28,44 @@ profiles:
   - align: right
     image: committee/barret.jpg
     description: <br><br> Nelly Barret, INSA Lyon & LIRIS, France
-    # image_circular: yes
-    role: PC Members NC
+    image_circular: yes
+    role: PC Members
     
   - align: left
     image: committee/bugiotti.jpg
     description: <br><br> Francesca Bugiotti, Laboratoire Interdisciplinaire des Sciences du Numérique (LISN), France
     image_circular: yes
-    role: PC Members NC
+    role: PC Members
     
   - align: left
     image: committee/echaed.jpg
     description: <br><br> Rachid Echahed, CNRS LIG, Univ. Grenoble Alpes, France
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: right
     image: committee/klettke.jpg
     description: <br><br> Meike Klettke, Universität Regensburg, Germany
-    # image_circular: yes
-    role: PC Members NC
+    image_circular: yes
+    role: PC Members
 
   - align: left
     image: committee/haridimos_kondylakis.jpg
     description: <br><br> Haridimos Kondylakis, FORTH-ICS, University of Crete, Greece
-    # image_circular: yes
+    image_circular: yes
     role: PC Members
 
   - align: left
     # image: 
     description: <br><br> Sergio Lifschitz, PUC-Rio, Brazil
     # image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: right
     # image: committee/matteo_lissandrini.jpg
     description: <br><br> Matteo Lissandrini, University of Verona, Italy
     # image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: left
     # image: 
@@ -89,7 +89,7 @@ profiles:
     # image: 
     description: <br><br> Jyrki Nummenmaa, Tampere University, Finland
     # image_circular: yes
-    role: PC Members NC
+    role: PC Members
     
   - align: left
     # image: 
@@ -101,7 +101,7 @@ profiles:
     # image: 
     description: <br><br> Yuya Sasaki, Osaka University, Japan
     # image_circular: yes
-    role: PC Members NC
+    role: PC Members
 
   - align: left
     # image: 
