@@ -1,5 +1,5 @@
 ---
- redirect:   https://transforming-graph-data.github.io/2025/
+ redirect_to:   https://transforming-graph-data.github.io/2025/
  layout:     redirect
  title: previous edition
  nav: true
