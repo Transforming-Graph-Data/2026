@@ -12,13 +12,13 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: efi.jpg
+    image: efi.png
     content: keynote1.md
     image_circular: false # crops the image to make it circular
     role: "Trigger Graphs & Probabilistic Equivalence: Towards Scalable and Efficient Neurosymbolic Learning and Inference."
 
   - align: left
-    image: angela.png
+    image: angela.jpeg
     content: keynote2.md
     image_circular: false # crops the image to make it circular
     role: "Property Graph Transformations in Action: From Data Integration to Causal Analysis"
