@@ -17,8 +17,8 @@ nav_order: 7
 | 15:00 PM - 15:20 PM| Declarative Debugging for Datalog with Aggregation. Raimund Dachselt, Lukas Gerlach, Philipp Hanisch, Alex Ivliev, Markus Krötzsch, Maximilian Marx, and Julián Méndez (TU Dresden, Germany).|
 | 15:20 PM - 15:30 PM| Quantum-PG-HIVE: Schema Discovery for Property Graphs Using Quantum Computing. Emmanouil Limnaios, Sophia Sideri, Haridimos Kondylakis (University of Crete, FORTH-ICS, Greece). |
 | 15:30 PM - 16:00 PM| Coffee Break    |
-| 16:20 PM - 16:40 PM| Exploiting Temporal Importance for Adversarial Attacks on Dynamic Graphs. Brilian Budi, Toshiyuki Amagasa (University of Tsukuba, Japan). |
-| 16:40 PM - 17:00 PM| Heterogeneity Detection and Comparison for Cost-Aware Graph Schema Evolution and Transformation. Dominique Hausler, Meike Klettke (University of Regensburg, Germany). |
-| 17:00 PM - 17:20 PM| Data Lineage Discovery for Databases based on Knowledge Graph Link Prediction.  Jakub Dutkiewicz, Paweł Misiorek, Robert Wrembel (Poznan University of Technology). |
-| 17:20 PM - 17:40 PM|  GSS: Graph Semantic Summarization Using Answer-Centered Explanatory Subgraphs. Valantis Zervos, Spyridon Doukeris, Kiki Miniadou, Giannis Vassiliou, Sophia Sideri, Haridimos Kondylakis  (University of Crete, FORTH-ICS, Greece & LIPADE, Université Paris Cité, France).|
-| 17:40 PM - 18:00 PM| Call for Action and Closing. |
+| 16:00 PM - 16:20 PM| Exploiting Temporal Importance for Adversarial Attacks on Dynamic Graphs. Brilian Budi, Toshiyuki Amagasa (University of Tsukuba, Japan). |
+| 16:20 PM - 16:40 PM| Heterogeneity Detection and Comparison for Cost-Aware Graph Schema Evolution and Transformation. Dominique Hausler, Meike Klettke (University of Regensburg, Germany). |
+| 16:40 PM - 17:00 PM| Data Lineage Discovery for Databases based on Knowledge Graph Link Prediction.  Jakub Dutkiewicz, Paweł Misiorek, Robert Wrembel (Poznan University of Technology). |
+| 17:00 PM - 17:20 PM|  GSS: Graph Semantic Summarization Using Answer-Centered Explanatory Subgraphs. Valantis Zervos, Spyridon Doukeris, Kiki Miniadou, Giannis Vassiliou, Sophia Sideri, Haridimos Kondylakis  (University of Crete, FORTH-ICS, Greece & LIPADE, Université Paris Cité, France).|
+| 17:20 PM - 17:30 PM| Call for Action and Closing. |
