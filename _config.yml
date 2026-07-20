@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Transforming Graph Data Workshop (TGD) 
 footer_text: >
   Supported by the <a href=" https://www.unica-project.eu/" target="_blank">UNICA</a> project,
-  funded by the European Union's Horizon Europe research and innovation programme under grant agreement No. <b>101218966</b>.
+  co-funded by the European Union under the EU4Health Programme, grant agreement No. <b>101218966</b>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
